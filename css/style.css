@@ -1,0 +1,75 @@
+body{
+    font-family: 'Montserrat','Arial';
+    font-size: 16px;
+    color: #000;
+}
+
+.wrapper {
+    background: url(../img/bacgraund.png) 0 0/auto auto no-repeat;
+    max-width: 1440px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.conteiner {
+    max-width: 930px;
+    margin: 0 auto;
+}
+
+.header1-1 {
+    padding: 20px 0 40px 0;
+}
+
+.text_header1-1 {
+    font-family: 'Montserrat', 'Arial';
+    font-size: 48px;
+    text-align: center;
+    color: #333;
+}
+
+.img1-1 {}
+
+.img_img1-1 {
+    width: 100%;
+    height: auto;
+}
+
+.button1-1 {
+    position: relative;
+    padding-top: 40px;
+}
+
+.link_button1-1 {
+    position: absolute;
+    right: 0;
+    width: 180px;
+    padding: 10px;
+    display: block;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link_button1{
+    width: 140px;
+}
+
+.button1-1 :hover{
+    background-color: rgb(253, 196, 181);
+}
+
+.arrow_button1-1 {
+    padding-top: 5px;
+}
+
+.img_arrow1-1 {
+    
+}
+
+.text_button1-1 {
+    color: #BD1E1E;
+}
+
+.text_button2-1 {
+    color: #333;
+}
