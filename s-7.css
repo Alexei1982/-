@@ -1,0 +1,27 @@
+.bg7 {
+    background: url(bg-7.png) 0 0/auto auto no-repeat;
+}
+
+.content7 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text7 {
+    width: 400px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.15;
+}
+
+.text7-header {
+    margin: 30px auto 90px auto;
+}
+
+.text7_g-over {
+    color: #DB3131;
+}
+
+.img4 {}
+
+.img7-1 {}
